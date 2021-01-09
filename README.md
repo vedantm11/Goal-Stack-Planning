@@ -1,0 +1,2 @@
+# Goal-Stack-Planning
+ A flat surface such as a table top An adequate set of identical blocks which are identified by letters. The blocks can be stacked one on one to form towers of apparently unlimited height. The stacking is achieved using a robot arm which has fundamental operations and states which can be assessed using logic and combined using logical operations. The robot can hold one block at a time and only one block can be moved at a time.
